@@ -58,9 +58,9 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                     child: Column(
                       spacing: 20,
                       children: <Widget>[
-                        Gap(40),
+                        Gap(appHeight(context) * 0.07),
                         Image.asset(page.imagePath, height: 250),
-                        Gap(20),
+                        Gap(appHeight(context) * 0.025),
                         Row(
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: List.generate(onboardingPages.length, (i) {
