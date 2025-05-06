@@ -1,10 +1,36 @@
 # coinpay_fintech_finance
 
-A new Flutter project.
+## 📱 Screenshots
 
-## Getting Started
+### Splash Screen
 
-This project is a starting point for a Flutter application.
+<img src="assets/screenshots/splash.png" width="300">
+
+### Onboarding Screens
+
+<img src="assets/screenshots/onboardingone.png" width="200"> 
+<img src="assets/screenshots/onboardingtwo.png" width="200"> 
+<img src="assets/screenshots/onboardingthree.png" width="200">
+
+---
+
+## 🛠️ Features
+
+- ✅ Custom animated splash screen
+- ✅ Three-step onboarding flow
+- ✅ Page indicators and "Next" button
+- ✅ Smooth navigation
+- ✅ Clean and minimal UI
+
+---
+
+## 🔧 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/yourusername/coinpay_flutter.git
+cd coinpay_flutter
 
 A few resources to get you started if this is your first Flutter project:
 
